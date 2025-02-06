@@ -6,3 +6,4 @@ numpy==1.26.4
 pyarrow==15.0.0
 oracledb==2.5.1
 polars==1.21.0
+duckdb==1.2.0
